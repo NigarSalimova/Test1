@@ -46,3 +46,33 @@
     position: relative;
     padding-top: 20px;
 }
+.max-article_content {
+    width: 540px;
+    position: relative;
+    padding-left: 30px;
+}
+.heading h3 {
+color: #14475F;
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+margin-top: 40px;
+
+}
+.pharagraph1 p {
+color: #414042;
+font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+margin-top: 10px;
+}
+.pharagraph2 {
+color: #414042;
+font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+margin-top: 40px;
+}
