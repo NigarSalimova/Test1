@@ -2,5 +2,23 @@
     background: url(../Test1/img/header.jpg) no-repeat top/cover;
     width: 100%;
     height: 397px;
+   
 }
-
+.header img {
+    position: relative;
+    padding-left: 408px;
+}
+.header h1 {
+    color: #FFF;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 37px;
+    font-weight: 700;
+    width: 540px;
+    font-style: normal ;
+    text-transform: capitalize;
+    text-align: left;
+    position: relative;
+    padding-left: 30px;
+    padding-top: 224px;
+    width: 540px;
+}
