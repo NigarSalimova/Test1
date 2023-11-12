@@ -1,28 +1,32 @@
-*{
+* {
     box-sizing: border-box;
 }
+
 .container {
     position: relative;
     margin: 0 auto;
     width: 600px;
 }
+
 .header {
     background: url(../Test1/img/header.jpg) no-repeat top/cover;
     width: 600px;
     height: 397px;
-   
+
 }
+
 .header img {
     position: relative;
     padding-left: 408px;
 }
+
 .header h1 {
     color: #FFF;
     font-family: 'Courier New', Courier, monospace;
     font-size: 35px;
     font-weight: 700;
     width: 540px;
-    font-style: normal ;
+    font-style: normal;
     text-transform: capitalize;
     text-align: left;
     position: relative;
@@ -30,12 +34,14 @@
     padding-top: 224px;
     width: 540px;
 }
+
 .sectionmini-article {
     background: url(../Test1/img/Certificate.png);
     width: 600px;
     height: 87px;
     position: relative;
 }
+
 .mini-article_text p {
     color: #FFF;
     text-align: center;
@@ -46,33 +52,37 @@
     position: relative;
     padding-top: 20px;
 }
+
 .max-article_content {
     width: 540px;
     position: relative;
     padding-left: 30px;
 }
+
 .heading h3 {
-color: #14475F;
-font-family: 'Courier New', Courier, monospace;
-font-size: 30px;
-font-style: normal;
-font-weight: 700;
-margin-top: 40px;
+    color: #14475F;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 40px;
 
 }
+
 .pharagraph1 p {
-color: #414042;
-font-family: 'Courier New', Courier, monospace;
-font-size: 18px;
-font-style: normal;
-font-weight: 500;
-margin-top: 10px;
+    color: #414042;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 10px;
 }
+
 .pharagraph2 {
-color: #414042;
-font-family: 'Courier New', Courier, monospace;
-font-size: 18px;
-font-style: normal;
-font-weight: 500;
-margin-top: 40px;
+    color: #414042;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 40px;
 }
