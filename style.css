@@ -1,6 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    position: relative;
+    margin: 0 auto;
+    width: 600px;
+}
 .header {
     background: url(../Test1/img/header.jpg) no-repeat top/cover;
-    width: 100%;
+    width: 600px;
     height: 397px;
    
 }
@@ -11,7 +19,7 @@
 .header h1 {
     color: #FFF;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 37px;
+    font-size: 35px;
     font-weight: 700;
     width: 540px;
     font-style: normal ;
@@ -21,4 +29,20 @@
     padding-left: 30px;
     padding-top: 224px;
     width: 540px;
+}
+.sectionmini-article {
+    background: url(../Test1/img/Certificate.png);
+    width: 600px;
+    height: 87px;
+    position: relative;
+}
+.mini-article_text p {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    position: relative;
+    padding-top: 20px;
 }
