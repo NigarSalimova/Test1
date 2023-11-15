@@ -56,11 +56,13 @@ body {
     color: #FFF;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 700;
     position: relative;
     padding-top: 20px;
+    padding-left: 30px;
+    width: 540px;
 }
 
 .sectionmax-article {
